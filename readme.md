@@ -2,9 +2,9 @@
 
 <h3>Formats Available:</h3>
 <ul>
-<li>Text</li>
+<li>LaTex</li>
 <li>JSON</li>
-<li>XML</li>
+<li>YAML</li>
 <li>CSV</li>
 <li>MySQL</lI>
 </ul>
